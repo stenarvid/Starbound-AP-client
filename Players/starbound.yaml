@@ -1,0 +1,7 @@
+name: Starbound
+game: Starbound
+description: Vanilla Starbound
+
+# testing out random weapon item
+Starbound:
+  random_tier4_weapon: true
